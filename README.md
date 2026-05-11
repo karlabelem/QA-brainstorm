@@ -1,4 +1,4 @@
-# 🛍️ Should I Buy This? (Working Title)
+# 🛍️ Lyra
 
 An AI-powered tool that helps users make better purchasing decisions by analyzing **product materials** and **customer sentiment**, not just price or ratings.
 
